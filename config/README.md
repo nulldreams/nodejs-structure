@@ -1,3 +1,3 @@
 # App configuration files
- - sequalize.json
+ - sequelize.json
  - serviceOne.json
